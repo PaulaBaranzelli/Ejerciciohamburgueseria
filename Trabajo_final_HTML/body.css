@@ -1,0 +1,329 @@
+.logo{
+    width: 100px;
+    height: auto;
+    margin-left: 170px;
+    margin-top: 13px;
+}
+.back{
+    background-image: url(./Imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    background-image: fixed;
+    background-size: 100%;
+    background-position: center;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 150px;
+    
+}
+.navuno{
+    text-decoration: none;
+    background-color: white;
+    
+    
+}
+.menutwo{
+    display: flex;
+    justify-content:right;
+    margin-bottom: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    position: relative;
+
+  
+    
+    
+    
+    
+}
+.Inicio{
+    text-decoration: none;
+    padding-right: 30px;
+    font-size: 20px;
+    color: hwb(240 62% 35%);
+    margin-top: 900px;
+}
+.Inicio:hover{
+    color: orange;
+}
+    
+
+.Blog{
+    text-decoration: none;
+    padding-right: 30px;
+    
+    font-size: 20px;
+    color: hwb(240 62% 35%);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+     
+}
+.Blog:hover{
+    color:orange;
+}
+.Menu{
+    text-decoration: none;
+    padding-right: 30px;
+    font-size: 20px;
+    color: hwb(240 62% 35%);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+     
+}
+.Menu:hover{
+    color:orange;
+}
+.media{
+    color: white;
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+#face:hover{
+    color: orange;
+    font-size:60px;
+    transition: all 3s;
+}
+#twit:hover{
+    color: orange;
+    font-size:60px;
+    transition: all 3s;
+}
+#inst:hover{
+    color: orange;
+    font-size:60px;
+    transition: all 3s;
+}
+.footer{
+    background-color: #21242e;
+}
+.services{
+    position: relative;
+}
+.ourservices{
+    font-family: "Handlee", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 35px;
+
+}
+.color{
+    color: orangered;
+}
+.line{
+    text-align: center;
+    color:#55565a;
+    font-size: 45px;
+    
+}
+.x{
+    text-align: center;
+    color:orangered;
+    font-size: 20px;
+    font-family: "Handlee", cursive;
+    font-weight: 1000;
+    font-style: normal;
+    position: absolute;
+    left: 630px;
+    bottom: -164px;
+
+}
+.description{
+    margin-top: 40px;
+    margin-left: 20px;
+    display:grid;
+    grid-template-columns: 20% 20% 20%;
+    justify-content: center;
+    
+}
+.meat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: 15px;
+    
+    
+    
+
+}
+.meat2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+#imeat{
+    color:orangered;
+    font-size:30px;
+    margin-bottom: 20px;
+    border: 1px solid orangered;
+}
+.dmeat{
+    border-left: 2px solid grey;
+    padding: 20px;
+}
+.kitchen{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: 15px;
+}
+.kitchen2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+#ikitchen{
+    color:orangered;
+    font-size:30px;
+    margin-bottom: 20px;
+    border: 1px solid orangered;
+}
+.dkitchen{
+    border-left: 2px solid grey;
+    padding: 20px;
+}
+.goodservice{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: 15px;
+}
+.goodservice2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+#igoodservice{
+    color:orangered;
+    font-size:30px;
+    margin-bottom: 20px;
+    border: 1px solid orangered;
+}
+.dgoodservice{
+    border-left: 2px solid grey;
+    padding: 20px;
+}
+.button{
+    text-decoration: none;
+    color: orangered;
+    margin-top: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    background-color: transparent;
+    border-color: transparent;
+}
+.aboutus{
+    margin-bottom: 30px;
+}
+.about{
+    font-family: "Handlee", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+.us{
+    color: orangered;  
+}
+.x1{
+    text-align: center;
+    color:orangered;
+    font-size: 20px;
+    font-family: "Handlee", cursive;
+    font-weight: 1000;
+    font-style: normal;
+    position: absolute;
+    left: 630px;
+    bottom: -255.5px;
+
+}
+.history{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: 250px;
+}
+.restaurant{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <normal>;
+    font-style: normal;
+    font-size: 17px;
+    color: orangered;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 250px;
+}
+.lorem{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <normal>;
+    font-style: normal;
+    font-size: 17px;
+    margin-bottom: 15px;
+    margin-left: 250px;
+}
+.button2{
+    background-color: orangered;
+    padding: 15px;
+    border: 1px solid orangered;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <normal>;
+    font-style: normal;
+    font-size: 17px;
+    color: white;
+    margin-left: 250px;
+    
+}
+.ourhistory{
+    display: grid;
+    grid-template-columns: 40% 40%;
+
+}
+.imgour{
+    width: 450px;
+    margin-left: 2px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    rotate: -10deg;
+
+}
+.border{
+    border: 2px solid orangered;
+    width: 456.39px;
+    height: 320.17px;   
+    box-sizing: border-box;
+    margin-left: 150px;
+    rotate: 10deg;
+    margin-top: 70px;
+   
+    
+}
+.border:hover{
+    rotate: -10deg;
+}

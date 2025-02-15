@@ -1,0 +1,78 @@
+.menuuno{
+    background-color:hsl(226, 16%, 15%);
+    align-items: center;
+   
+    
+}
+.ulclass{
+    background-color:hsl(226, 16%, 15%);
+    display:flex;
+    font-family: montserrat;
+    font-size: 20px;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+   
+}
+.textmail{
+    
+    text-decoration: none;
+    color: white;
+    .montserrat-<uniquifier> {
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+     }
+    
+    
+}
+.phone{
+    text-decoration: none;
+    color: white;
+    .montserrat-<uniquifier> {
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+     }
+    
+}
+.cart{
+    text-decoration: none;
+    color: white;
+    .montserrat-<uniquifier> {
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+     }
+    
+  
+}
+.user{
+    text-decoration: none;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+   
+    
+}
+
+#iemal{
+    color: orange;
+}
+#iphone{
+    color: orange;
+}
+#icart{
+    color: orange;
+}
+#iuser{
+    color: orange;
+}
+   
